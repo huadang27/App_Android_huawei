@@ -68,6 +68,11 @@ I.	THIẾT KẾ
 Tải app tại : https://appgallery.huawei.com/app/C104586707
 
 
+
+https://user-images.githubusercontent.com/78135100/210137882-96625671-00fa-4a26-bdb6-b72490e94013.mp4
+
+
+
 III.	TỔNG KẾT
 1.	Kết luận
 Ngày nay, quy mô các công ty ngày càng mở rộng và phát triển, nên rất khó khăn cho việc quản lý. Chúng ta không thể áp dụng hình thức quản lý truyền thống (giấy tờ, sổ sách,…) cho một thời đại 4.0 như hiện nay. Vì vậy, phần mềm “Phần mềm Quản lý nhân viên trên thiết bị di động” ra đời giúp khắc phục những nhược điểm và khó khăn của việc quản lý truyền thống, tạo sự thuận tiện có thể theo dõi chỉ bằng thiết bị thông minh nhỏ gọn.
