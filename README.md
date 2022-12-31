@@ -1,4 +1,4 @@
-# BaiTapLon-Android
+#Android
  
 I.	TỔNG QUAN VỀ ĐỀ TÀI:
 1.	Giới thiệu đề tài:
